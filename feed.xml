@@ -1,0 +1,348 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0">
+    <channel>
+        <title>Example Store</title>
+        <link>https://example.com</link>
+        <description>Example store with some test products</description>
+        <item>
+            <g:id>1</g:id>
+            <g:title>
+                <![CDATA[TV 42" OLED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-42-oled]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-42-oled.png]]>
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>819.69</g:price>
+            <g:brand>SONY</g:brand>
+            <g:gtin>1148757178739</g:gtin>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>2</g:id>
+            <g:title>
+                <![CDATA[TV 42" OLED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-42-oled]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-42-oled.png]]>
+            </g:image_link>
+            <g:availability>out of stock</g:availability>
+            <g:price>229.83</g:price>
+            <g:brand>SAMSUNG</g:brand>
+            <g:gtin>9387831780143</g:gtin>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>3</g:id>
+            <g:title>
+                <![CDATA[TV 42" OLED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-42-oled]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-42-oled.png]]>
+            </g:image_link>
+            <g:availability>out of stock</g:availability>
+            <g:price>230.41</g:price>
+            <g:brand>SONY</g:brand>
+            <g:gtin>2568133277785</g:gtin>
+            <g:condition>used</g:condition>
+        </item>
+        <item>
+            <g:id>4</g:id>
+            <g:title>
+                <![CDATA[TV 32" LED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-32-led]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-32-led.png]]>
+            </g:image_link>
+            <g:availability>out of stock</g:availability>
+            <g:price>394.05</g:price>
+            <g:brand>SAMSUNG</g:brand>
+            <g:gtin>3580180261370</g:gtin>
+            <g:condition>used</g:condition>
+        </item>
+        <item>
+            <g:id>5</g:id>
+            <g:title>
+                <![CDATA[TV 22" LED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-22-led]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-22-led.png]]>
+            </g:image_link>
+            <g:availability>out of stock</g:availability>
+            <g:price>629.02</g:price>
+            <g:brand>PHILIPS</g:brand>
+            <g:gtin>9817629341008</g:gtin>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>6</g:id>
+            <g:title>
+                <![CDATA[TV 32" LED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-32-led]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-32-led.png]]>
+            </g:image_link>
+            <g:availability>out of stock</g:availability>
+            <g:price>196.82</g:price>
+            <g:brand>SAMSUNG</g:brand>
+            <g:gtin>1123677004023</g:gtin>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>7</g:id>
+            <g:title>
+                <![CDATA[TV 42" OLED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-42-oled]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-42-oled.png]]>
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>587.38</g:price>
+            <g:brand>PHILIPS</g:brand>
+            <g:gtin>7166879778730</g:gtin>
+            <g:condition>used</g:condition>
+        </item>
+        <item>
+            <g:id>8</g:id>
+            <g:title>
+                <![CDATA[TV 22" LED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-22-led]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-22-led.png]]>
+            </g:image_link>
+            <g:availability>out of stock</g:availability>
+            <g:price>770.52</g:price>
+            <g:brand>SAMSUNG</g:brand>
+            <g:gtin>6871714162018</g:gtin>
+            <g:condition>used</g:condition>
+        </item>
+        <item>
+            <g:id>9</g:id>
+            <g:title>
+                <![CDATA[TV 42" OLED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-42-oled]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-42-oled.png]]>
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>501.98</g:price>
+            <g:brand>SAMSUNG</g:brand>
+            <g:gtin>3835991566016</g:gtin>
+            <g:condition>used</g:condition>
+        </item>
+        <item>
+            <g:id>10</g:id>
+            <g:title>
+                <![CDATA[TV 32" OLED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-32-oled]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-32-oled.png]]>
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>489.14</g:price>
+            <g:brand>PANASONIC</g:brand>
+            <g:gtin>6013887587117</g:gtin>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>11</g:id>
+            <g:title>
+                <![CDATA[TV 32" LED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-32-led]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-32-led.png]]>
+            </g:image_link>
+            <g:availability>out of stock</g:availability>
+            <g:price>250.66</g:price>
+            <g:brand>JVC</g:brand>
+            <g:gtin>3242253209541</g:gtin>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>12</g:id>
+            <g:title>
+                <![CDATA[TV 42" OLED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-42-oled]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-42-oled.png]]>
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>114.84</g:price>
+            <g:brand>LG</g:brand>
+            <g:gtin>8419524405116</g:gtin>
+            <g:condition>used</g:condition>
+        </item>
+        <item>
+            <g:id>13</g:id>
+            <g:title>
+                <![CDATA[TV 24" LED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-24-led]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-24-led.png]]>
+            </g:image_link>
+            <g:availability>out of stock</g:availability>
+            <g:price>647.5</g:price>
+            <g:brand>JVC</g:brand>
+            <g:gtin>7131441143858</g:gtin>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>14</g:id>
+            <g:title>
+                <![CDATA[TV 32" LED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-32-led]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-32-led.png]]>
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>480.64</g:price>
+            <g:brand>SONY</g:brand>
+            <g:gtin>3380034370360</g:gtin>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>15</g:id>
+            <g:title>
+                <![CDATA[TV 24" LED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-24-led]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-24-led.png]]>
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>162.14</g:price>
+            <g:brand>SAMSUNG</g:brand>
+            <g:gtin>4181238881718</g:gtin>
+            <g:condition>used</g:condition>
+        </item>
+        <item>
+            <g:id>16</g:id>
+            <g:title>
+                <![CDATA[TV 22" LED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-22-led]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-22-led.png]]>
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>792.45</g:price>
+            <g:brand>LG</g:brand>
+            <g:gtin>5069167475798</g:gtin>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>17</g:id>
+            <g:title>
+                <![CDATA[TV 22" LED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-22-led]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-22-led.png]]>
+            </g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:price>529.93</g:price>
+            <g:brand>SONY</g:brand>
+            <g:gtin>1630714134785</g:gtin>
+            <g:condition>new</g:condition>
+        </item>
+        <item>
+            <g:id>18</g:id>
+            <g:title>
+                <![CDATA[TV 32" OLED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-32-oled]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-32-oled.png]]>
+            </g:image_link>
+            <g:availability>out of stock</g:availability>
+            <g:price>583.81</g:price>
+            <g:brand>PHILIPS</g:brand>
+            <g:gtin>8346041821979</g:gtin>
+            <g:condition>used</g:condition>
+        </item>
+        <item>
+            <g:id>19</g:id>
+            <g:title>
+                <![CDATA[TV 42" OLED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-42-oled]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-42-oled.png]]>
+            </g:image_link>
+            <g:availability>out of stock</g:availability>
+            <g:price>727.61</g:price>
+            <g:brand>LG</g:brand>
+            <g:gtin>3468104301749</g:gtin>
+            <g:condition>used</g:condition>
+        </item>
+        <item>
+            <g:id>20</g:id>
+            <g:title>
+                <![CDATA[TV 24" LED]]>
+            </g:title>
+            <g:link>
+                <![CDATA[https://example.com/tv-24-led]]>
+            </g:link>
+            <g:image_link>
+                <![CDATA[https://images.example.com/tv-24-led.png]]>
+            </g:image_link>
+            <g:availability>out of stock</g:availability>
+            <g:price>887.68</g:price>
+            <g:brand>PHILIPS</g:brand>
+            <g:gtin>8446948920352</g:gtin>
+            <g:condition>new</g:condition>
+        </item>
+    </channel>
+</rss>
